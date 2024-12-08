@@ -1,0 +1,168 @@
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\appsettings.Development.json
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\appsettings.json
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Ecommerce API.exe
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Ecommerce API.deps.json
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Ecommerce API.runtimeconfig.json
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Ecommerce API.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Ecommerce API.pdb
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Humanizer.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.ApplicationInsights.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.Testing.Extensions.Telemetry.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.Testing.Extensions.VSTestBridge.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.Testing.Platform.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.Testing.Platform.MSBuild.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\cs\Microsoft.Testing.Platform.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\de\Microsoft.Testing.Platform.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\es\Microsoft.Testing.Platform.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\fr\Microsoft.Testing.Platform.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\it\Microsoft.Testing.Platform.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\ja\Microsoft.Testing.Platform.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\ko\Microsoft.Testing.Platform.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\pl\Microsoft.Testing.Platform.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\pt-BR\Microsoft.Testing.Platform.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\ru\Microsoft.Testing.Platform.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\tr\Microsoft.Testing.Platform.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\zh-Hans\Microsoft.Testing.Platform.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\zh-Hant\Microsoft.Testing.Platform.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\c sharp prog\Ecommerce API\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\c sharp prog\Ecommerce API\obj\Debug\net6.0\Ecommerce API.csproj.AssemblyReference.cache
+D:\c sharp prog\Ecommerce API\obj\Debug\net6.0\Ecommerce API.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp prog\Ecommerce API\obj\Debug\net6.0\Ecommerce API.AssemblyInfoInputs.cache
+D:\c sharp prog\Ecommerce API\obj\Debug\net6.0\Ecommerce API.AssemblyInfo.cs
+D:\c sharp prog\Ecommerce API\obj\Debug\net6.0\Ecommerce API.csproj.CoreCompileInputs.cache
+D:\c sharp prog\Ecommerce API\obj\Debug\net6.0\Ecommerce API.MvcApplicationPartsAssemblyInfo.cs
+D:\c sharp prog\Ecommerce API\obj\Debug\net6.0\Ecommerce API.MvcApplicationPartsAssemblyInfo.cache
+D:\c sharp prog\Ecommerce API\obj\Debug\net6.0\staticwebassets.build.json
+D:\c sharp prog\Ecommerce API\obj\Debug\net6.0\staticwebassets.development.json
+D:\c sharp prog\Ecommerce API\obj\Debug\net6.0\scopedcss\bundle\Ecommerce API.styles.css
+D:\c sharp prog\Ecommerce API\obj\Debug\net6.0\Ecommerce API.csproj.CopyComplete
+D:\c sharp prog\Ecommerce API\obj\Debug\net6.0\Ecommerce API.dll
+D:\c sharp prog\Ecommerce API\obj\Debug\net6.0\refint\Ecommerce API.dll
+D:\c sharp prog\Ecommerce API\obj\Debug\net6.0\Ecommerce API.pdb
+D:\c sharp prog\Ecommerce API\obj\Debug\net6.0\Ecommerce API.genruntimeconfig.cache
+D:\c sharp prog\Ecommerce API\obj\Debug\net6.0\ref\Ecommerce API.dll
